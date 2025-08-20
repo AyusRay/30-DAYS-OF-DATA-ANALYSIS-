@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://github.com/AyusRay/30-DAYS-OF-DATA-ANALYSIS-/blob/main/BANNER.png" alt="30 Days of Data Analysis Banner" width="800"/>
+  <img src="https://github.com/AyusRay/30-DAYS-OF-DATA-ANALYSIS-/blob/main/Banner%20.png" alt="30 Days of Data Analysis Banner" width="800"/>
 </p>
 
 
