@@ -5,3 +5,5 @@ A public log of my journey to deepen my skills in Data Analysis over 30 days. Ea
 
 2  SQL & EDA | Swiggy Customer Analysis | SQL (MySQL) | ✅ |
 
+3 Text Analysis | Sentiment Word Frequency in Tweets | Python, NLP | ✅ |
+
