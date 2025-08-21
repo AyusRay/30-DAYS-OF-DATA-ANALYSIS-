@@ -41,3 +41,12 @@ Tools: Python, NLP
 Highlights: Created text_length feature, applied text preprocessing (cleaning, stopword removal), and analyzed positive vs. negative word frequencies.
 ✅ Key Insight: Positive tweets commonly used words like love, great, happy, while negative tweets featured bad, worst, problem. Clear patterns emerged even with simple NLP techniques.
 
+# Day 4: SQL Analysis — CTEs, Window Functions, Joins & Subqueries
+
+Dataset: Employee/Department relational database
+Tools: SQL, MySQL
+
+Highlights: Practiced CTEs, Window Functions, Joins, and Subqueries. ✔ Key Insight: Ranked employees by salary per department, calculated cumulative totals, found departments with no employees, and identified multi-project workers using advanced SQL techniques.
+
+Skills: CTEs, Window Functions, Joins, Subqueries
+
