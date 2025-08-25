@@ -50,3 +50,16 @@ Highlights: Practiced CTEs, Window Functions, Joins, and Subqueries. ✔ Key Ins
 
 Skills: CTEs, Window Functions, Joins, Subqueries
 
+
+# Day 5: A/B Testing Analysis — Hypothesis Testing, Statistical Significance & Business Insight
+Project: A/B Test Analysis: Button Color & Conversion Rates
+Dataset: Simulated e-commerce A/B test data (~10,000 users)
+Tools: Python (Pandas, SciPy, NumPy, Matplotlib, Statsmodels)
+Highlights:
+Designed and executed a full A/B test analysis to determine if a red "Buy Now" button (Treatment) outperformed the existing green button (Control). Performed data validation, calculated conversion rates, and conducted a statistical t-test. Enhanced the analysis by calculating the confidence interval for the difference in conversion rates and performing a statistical power analysis to validate the test's reliability.
+ ✅ Key Insight:
+The red button (Group B: 11.34% conversion) statistically significantly outperformed the green button (Group A: 9.58% conversion) with a p-value of 0.004. The 95% confidence interval shows the true uplift is between 0.56% and 2.96%. With a statistical power of 0.82, the test result is highly reliable. The recommendation is to implement the red button, which could lead to a substantial increase in revenue at scale.
+ Skills: Hypothesis Testing, Statistical Significance (p-values), Confidence Intervals, Power Analysis, Data Visualization, Business Decision Mapping
+
+
+
