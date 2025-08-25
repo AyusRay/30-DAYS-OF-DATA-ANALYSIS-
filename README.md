@@ -59,7 +59,16 @@ Highlights:
 Designed and executed a full A/B test analysis to determine if a red "Buy Now" button (Treatment) outperformed the existing green button (Control). Performed data validation, calculated conversion rates, and conducted a statistical t-test. Enhanced the analysis by calculating the confidence interval for the difference in conversion rates and performing a statistical power analysis to validate the test's reliability.
  ✅ Key Insight:
 The red button (Group B: 11.34% conversion) statistically significantly outperformed the green button (Group A: 9.58% conversion) with a p-value of 0.004. The 95% confidence interval shows the true uplift is between 0.56% and 2.96%. With a statistical power of 0.82, the test result is highly reliable. The recommendation is to implement the red button, which could lead to a substantial increase in revenue at scale.
- Skills: Hypothesis Testing, Statistical Significance (p-values), Confidence Intervals, Power Analysis, Data Visualization, Business Decision Mapping
+ Skills: Hypothesis Testing, Statistical Significance (p-values), Confidence Intervals, Power Analysis, Data Visualization, Business Decision Mapping.
+
+
+ # Day 6: ML Preprocessing — Feature Engineering, Scaling & Encoding 
+ Project : Credit Risk Prediction Pipeline
+Dataset: Synthetic credit risk data (15 samples, 8 features)
+Tools: Python (Pandas, Scikit-learn, NumPy)
+Highlights: Built an end-to-end preprocessing pipeline for credit risk modeling. Handled missing values, performed train-test splitting, applied feature scaling to numerical variables, and encoded categorical features using both ordinal and one-hot encoding techniques. Implemented proper data leakage prevention by fitting transformers only on training data.
+Key Insight: Successfully transformed raw data into ML-ready format using ColumnTransformer, scaling numerical features (age, income, loan_amount, credit_score) with StandardScaler, ordinally encoding employment_length, and one-hot encoding home_ownership and loan_intent. The pipeline increased feature dimensions from 7 to 12 while maintaining data integrity and preventing leakage.
+Skills: Feature Engineering, Data Scaling, Encoding Techniques, Pipeline Construction, Data Leakage Prevention
 
 
 
