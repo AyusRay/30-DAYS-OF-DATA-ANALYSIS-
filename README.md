@@ -71,4 +71,15 @@ Key Insight: Successfully transformed raw data into ML-ready format using Column
 Skills: Feature Engineering, Data Scaling, Encoding Techniques, Pipeline Construction, Data Leakage Prevention
 
 
+# Day 7 – ML Model Building 🚀
+
+This notebook demonstrates end-to-end loan status prediction using machine learning.
+Built a synthetic dataset with demographics, loan, and credit features.
+Performed data cleaning, handled missing values, and applied label encoding.
+Split data into train/test sets for unbiased evaluation.
+Trained Logistic Regression and Decision Tree models.
+Evaluated models using accuracy score.
+Key takeaway: Logistic Regression = interpretability; Decision Tree = complex patterns but risk of overfitting.
+
+
 
