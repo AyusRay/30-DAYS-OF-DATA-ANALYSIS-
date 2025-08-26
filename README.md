@@ -71,15 +71,20 @@ Key Insight: Successfully transformed raw data into ML-ready format using Column
 Skills: Feature Engineering, Data Scaling, Encoding Techniques, Pipeline Construction, Data Leakage Prevention
 
 
-# Day 7 – ML Model Building 🚀
-
-This notebook demonstrates end-to-end loan status prediction using machine learning.
-Built a synthetic dataset with demographics, loan, and credit features.
-Performed data cleaning, handled missing values, and applied label encoding.
-Split data into train/test sets for unbiased evaluation.
-Trained Logistic Regression and Decision Tree models.
-Evaluated models using accuracy score.
-Key takeaway: Logistic Regression = interpretability; Decision Tree = complex patterns but risk of overfitting.
-
+## Day 7: Loan Default Prediction Model
+📊 Project Overview
+Built machine learning models to predict loan defaults using Logistic Regression and Decision Trees.
+🎯 Results
+- **Logistic Regression Accuracy**: 100%
+- **Decision Tree Accuracy**: 100%
+- **Target Achievement**: ✅ Exceeded 85% accuracy goal
+⚠️ Important Note
+The perfect accuracy is likely due to the very small dataset (15 samples). In real-world applications with larger datasets, expect more typical accuracy ranges of 85-95%.
+🛠️ Technical Implementation
+- Data preprocessing with missing value handling
+- Categorical variable encoding
+- Feature scaling for Logistic Regression
+- Two model types for comparison
+- Comprehensive evaluation
 
 
