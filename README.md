@@ -70,8 +70,7 @@ Highlights: Built an end-to-end preprocessing pipeline for credit risk modeling.
 Key Insight: Successfully transformed raw data into ML-ready format using ColumnTransformer, scaling numerical features (age, income, loan_amount, credit_score) with StandardScaler, ordinally encoding employment_length, and one-hot encoding home_ownership and loan_intent. The pipeline increased feature dimensions from 7 to 12 while maintaining data integrity and preventing leakage.
 Skills: Feature Engineering, Data Scaling, Encoding Techniques, Pipeline Construction, Data Leakage Prevention
 
-
-## Day 7: Loan Default Prediction Model
+# Day 7: Loan Default Prediction Model
 📊 Project Overview
 Built machine learning models to predict loan defaults using Logistic Regression and Decision Trees.
 🎯 Results
