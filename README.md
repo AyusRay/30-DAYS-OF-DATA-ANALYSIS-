@@ -87,3 +87,12 @@ The perfect accuracy is likely due to the very small dataset (15 samples). In re
 - Comprehensive evaluation
 
 
+
+# Day -8 Model Evaluation & Risk Factor Analysis
+Performed comprehensive model evaluation using Confusion Matrix, ROC–AUC, and SHAP analysis. The model achieved 96.5% accuracy with an AUC of 0.99, indicating excellent predictive power. Feature importance analysis identified worst area, worst concave points, and mean concave points as the top three risk factors influencing predictions.
+
+
+
+
+
+
