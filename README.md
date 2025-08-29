@@ -92,6 +92,11 @@ The perfect accuracy is likely due to the very small dataset (15 samples). In re
 Performed comprehensive model evaluation using Confusion Matrix, ROC–AUC, and SHAP analysis. The model achieved 96.5% accuracy with an AUC of 0.99, indicating excellent predictive power. Feature importance analysis identified worst area, worst concave points, and mean concave points as the top three risk factors influencing predictions.
 
 
+# Day 9: Bank Performance Scorecard Analysis
+
+Consolidated and analyzed a multi-level bank performance scorecard. Key metrics revealed **strong asset growth (222% attainment)** but significant shortfalls in **deposits (81% attainment)** and **revenue (-6.6% attainment)**. Top risk factors identified were revenue decline and major performance disparity between teams.
+
+
 
 
 
