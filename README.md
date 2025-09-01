@@ -97,6 +97,15 @@ Performed comprehensive model evaluation using Confusion Matrix, ROC–AUC, and 
 Consolidated and analyzed a multi-level bank performance scorecard. Key metrics revealed **strong asset growth (222% attainment)** but significant shortfalls in **deposits (81% attainment)** and **revenue (-6.6% attainment)**. Top risk factors identified were revenue decline and major performance disparity between teams.
 
 
+# Day 10 : Customer Purchase Analysis
+
+This Jupyter Notebook contains Day 10 of a data analysis project focused on customer purchase behavior. It includes:
+Loading and exploring customer purchase data from an Excel file.
+Performing descriptive analytics such as calculating average purchase amounts, demographic breakdowns (gender and age), and product category analysis.
+Visualizing data using matplotlib and seaborn, including bar charts to compare total sales and average purchase amounts across product categories.
+The notebook demonstrates foundational data manipulation, statistical analysis, and visualization techniques using pandas, numpy, matplotlib, and seaborn.
+
+
 
 
 
