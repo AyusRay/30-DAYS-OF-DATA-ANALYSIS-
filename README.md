@@ -106,6 +106,20 @@ Visualizing data using matplotlib and seaborn, including bar charts to compare t
 The notebook demonstrates foundational data manipulation, statistical analysis, and visualization techniques using pandas, numpy, matplotlib, and seaborn.
 
 
+# Day 11-13 : Apple Stock Price Time Series Analysis (TSA)
+This Jupyter Notebook contains a multi-day project focused on performing Time Series Analysis (TSA) on historical Apple Inc. (AAPL) stock data. The analysis spans from data loading and preparation to advanced modeling and forecasting.
+
+The project includes:
+Loading and preprocessing historical stock price data (Open, High, Low, Close, Volume).
+Exploratory Data Analysis (EDA) with visualizations of price trends and trading volume over time.
+Decomposing the time series into its core components: trend, seasonality, and residuals to understand underlying patterns.
+Statistical testing for stationarity using the Augmented Dickey-Fuller (ADF) test.
+Model identification by analyzing Autocorrelation (ACF) and Partial Autocorrelation (PACF) plots to determine parameters for ARIMA family models.
+Building and training predictive models, including ARIMA and SARIMA, to capture serial dependence and seasonal patterns.
+Evaluating model performance by comparing forecasted values against actual test data using metrics like Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
+Generating and visualizing future price forecasts.
+
+
 
 
 
