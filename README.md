@@ -122,5 +122,25 @@ Generating and visualizing future price forecasts.
 
 
 
+# Day 14 -15 Strategic Profitability Analysis - Key Findings:
+
+Hospitality sector generates highest revenue ($65.4M) despite third-largest balance
+
+Large clients (>$10M) deliver best interest spreads (2.17%)
+
+Ontario holds 47% of portfolio risk ($3.77B total balance)
+
+Portfolio shows 31 accounts with negative interest spreads
+
+Operating Lines dominate (69% of accounts, 342 total)
+
+Average interest spread across portfolio: 1.82%
+
+Total annual revenue: $187.7M from $8.08B portfolio
+
+Recommendation: Focus on Large clients and Hospitality sector while diversifying Ontario exposure
+
+
+
 
 
