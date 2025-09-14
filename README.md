@@ -122,7 +122,7 @@ Generating and visualizing future price forecasts.
 
 
 
-# Day 14 -15 Strategic Profitability Analysis - Key Findings:
+# Day 14 -16 Strategic Profitability Analysis - Key Findings:
 
 Hospitality sector generates highest revenue ($65.4M) despite third-largest balance
 
@@ -139,6 +139,10 @@ Average interest spread across portfolio: 1.82%
 Total annual revenue: $187.7M from $8.08B portfolio
 
 Recommendation: Focus on Large clients and Hospitality sector while diversifying Ontario exposure
+
+# Day 17-19 📊 Loan Portfolio Performance Dashboard
+
+This project presents a Loan Portfolio Performance Dashboard built using Python (for EDA) and Power BI (for visualization) to analyze loan balances, revenues, and profitability across sectors, regions, and client sizes. The dashboard highlights key insights such as the Hospitality sector leading in revenue ($65.4M), large clients (> $10M) achieving best spreads (2.17%), and Ontario holding 47% of portfolio risk ($3.77B). With KPIs on loan balance, revenue, interest spreads, and client distribution, it enables executives to quickly assess performance, identify risks, and make strategic decisions—such as focusing on large clients and the hospitality sector while diversifying Ontario exposure.
 
 
 
