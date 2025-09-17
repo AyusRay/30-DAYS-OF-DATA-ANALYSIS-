@@ -147,4 +147,21 @@ This project presents a Loan Portfolio Performance Dashboard built using Python 
 
 
 
+# Day 20 📈 Microsoft Stock Analysis (2023)
+
+This project uses **Python and Pandas** to analyze Microsoft (MSFT) stock data for the year 2023.  
+It covers the following:
+
+- Pulling stock price data using `yfinance`
+- Cleaning and preparing data for analysis
+- Calculating **daily returns** and **volatility**
+- Computing a **10-day moving average (MA)**
+- Gaining insights into price trends and stock risk
+
+The goal is to build a beginner-friendly financial analysis workflow that highlights key trends and provides investor insights in a simple way.
+
+
+
+
+
 
