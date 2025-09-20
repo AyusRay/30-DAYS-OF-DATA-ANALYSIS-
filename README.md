@@ -164,4 +164,25 @@ The goal is to build a beginner-friendly financial analysis workflow that highli
 
 
 
+# Day 22 SQL City Population Analysis 
+
+This repository contains SQL exercises analyzing city population data from the `world.city` table.
+
+## Queries Included:
+- Total cities count
+- Cities with population > 1M
+- Distinct country codes
+- Highest/second-highest population cities
+- Top 3 cities per country
+- Population statistics per country
+- Percentage of country population per city
+- Duplicate city names across countries
+
+## Database
+Uses the `world` database (e.g., MySQL World Sample Database).
+
+
+
+
+
 
