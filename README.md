@@ -164,7 +164,7 @@ The goal is to build a beginner-friendly financial analysis workflow that highli
 
 
 
-# Day 22 SQL City Population Analysis 
+# Day 21 SQL City Population Analysis 
 
 This repository contains SQL exercises analyzing city population data from the `world.city` table.
 
