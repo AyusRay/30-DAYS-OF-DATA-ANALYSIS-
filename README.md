@@ -158,7 +158,29 @@ It covers the following:
 - Computing a **10-day moving average (MA)**
 - Gaining insights into price trends and stock risk
 
-The goal is to build a beginner-friendly financial analysis workflow that highlights key trends and provides investor insights in a simple way.
+The goal is to build a beginner-friendly financial analysis workflow that highlights key trends and provides investor insights in a simple way#
+
+
+
+ # Day 23 Loan Portfolio Analysis
+Objective
+Analyze relationships between loan characteristics and repayment status to identify default risk factors.
+Key Insights
+Principal vs. Loan Status:**
+- Smaller loans (avg ~300-400) are more likely to be **PAIDOFF**
+- Larger loans (avg ~900) are more likely to enter **COLLECTION**
+- Medium-sized problematic loans (avg ~600-700) can recover (**COLLECTION_PAIDOFF**)
+Correlation Heatmap Findings:**
+- **Strong positive correlation** (+0.53) between Principal and Loan Terms
+- **No correlation** between loan size/terms and payment delays (past_due_days)
+- Loan structure doesn't predict payment behavior
+Conclusion
+Loan size correlates with default risk, but other factors (credit score, income) are needed to predict delinquency accurately.
+
+
+
+
+
 
 
 
